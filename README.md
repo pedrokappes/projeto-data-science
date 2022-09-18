@@ -2,7 +2,7 @@
 
 TURMA BSI - QUARTA 
 
-Integrantes: Pedro Henrique Kappes // Maicon Businare
+Integrantes: Pedro Henrique Kappes // Maicon Businari
 
 Link do git: https://github.com/pedrokappes/projeto-data-science
 
