@@ -11,5 +11,8 @@ ps: o link do dataset não está funcionando mais, porem temos ele salvo no noss
 
 Link do Dicionario de dados: https://mid.curitiba.pr.gov.br/dadosabertos/Sigesguarda/2015-11-25_sigesguarda_-_Dicionario_de_Dados.xlsx
 
-Link do drive com todas as informações incluindo: dataset, dataset limpo, dicionario e o arquivo da analise
+Link do drive com todas as informações do trabalho do 1º bi:
 https://drive.google.com/drive/folders/1kWwjIfq1FGUvIWVw6pAVxbCEDlk-yqLh?usp=sharing
+
+Link do drive do 2º bi (o dataset e o dicionario se mantem os mesmos):
+https://drive.google.com/drive/folders/19GGKm10DaAmC_tvIwKx_n30jIa0SoZrn?usp=sharing
